@@ -1,6 +1,15 @@
 # 💫 About Me:
 Olá! Sou o Guilherme. Atualmente focado em Garantia de Qualidade (QA), automação de processos e desenvolvimento web. Criador e administrador do Universo Tech, onde aplico na prática estratégias de testes de software, gerenciamento de bugs e metodologias ágeis.
 
+## 📂 Projetos em Destaque (Portfólio)
+
+### 🧪 [Acesse Aqui: Gestão de Testes e QA — Universo Tech](https://github.com/users/Gkveber/projects/1/views/2)
+> **Descrição:** Planejamento e execução de testes de software para o site Universo Tech. Contém o mapeamento completo de cenários de teste (menu responsivo e navegação), além do rastreamento e reporte técnico de bugs críticos encontrados no sistema (como Erros 404).
+> 
+> * **Metodologia:** Metodologias Ágeis (Kanban e gerenciamento de Issues no GitHub).
+> * **Status do Projeto:** Em andamento / Monitoramento de Bugs.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/guilhermeveber29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/guilherme-kerschner-veber-92317093) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@GuilhermeKerschnerVeber) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilhermeveber2@gmail.com) 
